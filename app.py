@@ -1,7 +1,7 @@
 from moralis import sol_api
 import json
 
-api_key = "<MORALIS-API>"
+api_key = "<MORALIS_API>"
 network = "mainnet"
 
 def getParams():
